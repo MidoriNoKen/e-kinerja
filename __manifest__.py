@@ -3,15 +3,14 @@
     'name': "ekinerja",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        e-kinerja merupakan aplikasi berbasis web untuk melakukan pendataan terkait kinerja mahasiswa""",
 
     'description': """
-        Long description of module's purpose
+        e-kinerja merupakan aplikasi menggunakan platform odoo-15
     """,
 
-    'author': "My Company",
-    'website': "http://www.yourcompany.com",
+    'author': "Midori No Ken",
+    'website': "http://www.bit.ly/MidoriNoKen",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/15.0/odoo/addons/base/data/ir_module_category_data.xml
